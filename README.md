@@ -57,8 +57,7 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 ### Full Inventory
 ![full inventory](https://user-images.githubusercontent.com/91661118/146315750-1199a37e-88e0-4d48-86d3-ae0b85df6a72.png)
 ### Full Inventory Reworked Preview
-![full inventory Reworked] 
-(https://cdn.discordapp.com/attachments/1165670289942790146/1175550385826570240/Screenshot_2023-11-18_234129.png)
+![full inventory Reworked](https://cdn.discordapp.com/attachments/1165670289942790146/1175550385826570240/Screenshot_2023-11-18_234129.png?ex=656ba39c&is=65592e9c&hm=0cd8ef3d0b82964a1d4e588c9f0ef677e6468741a30ad19c76a94a64cf706025&)
 ### Options Menu
 ![options menu](https://user-images.githubusercontent.com/91661118/147011228-ee6c9c0c-0058-4418-8c5f-c484f2f621f7.png)
 ### Help Box
