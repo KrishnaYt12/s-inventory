@@ -51,9 +51,10 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 * Elements of NoPixel 3.5 design ideas interwoven
 #
 
+* Preview Video Here : 
+![preview](https://streamable.com/q0my5f)
+
 # Previews
-### S-Inventory Full Preview Here)
-![s-inventory video preview](https://streamable.com/q0my5f)
 ### Simple guideline psd provided (found in main directory s-inventory)
 ![s-inventory Guideline](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
 ### Full Inventory
