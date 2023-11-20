@@ -52,7 +52,7 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 #
 
 * Preview Video Here : 
-![preview](https://streamable.com/q0my5f)
+!(https://streamable.com/q0my5f)
 
 # Previews
 ### Simple guideline psd provided (found in main directory s-inventory)
