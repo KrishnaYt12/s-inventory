@@ -1,7 +1,7 @@
   
 ![LJ Inventory](https://user-images.githubusercontent.com/91661118/146313051-665337bf-ed92-4ed0-bbb9-6ee9613f670d.png)
 
-## Color Picking Removed by the reworker of LJ-Inventory (ShadowsHUB) if you want to add it again then go to ui.html then see on line 54 to 57 then remove the dash and arrows from there and your color picker option will be there again
+## Color Picking Removed by the reworker of LJ-Inventory (ShadowsHUB) if you want to add it again then go to ui.html then see on line 54 to 57 and also in main.css 1178 to 1183 then remove the dash and arrows from there and your color picker option will be there again
 * [Preview Video Here](https://streamable.com/q0my5f)
 Join my Discord for updates, support, and special early testing!
 <br>
