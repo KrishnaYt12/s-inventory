@@ -49,7 +49,6 @@ In collaboration with [OnlyCats](https://github.com/onlycats) who helped reorgan
 * Text overflow ellipsis used (so your product titles with never overlap the containers and instead do "...")
 * Blurred inventory background
 * Elements of NoPixel 3.5 design ideas interwoven
-#
 
 # Previews
 ### Simple guideline psd provided (found in main directory s-inventory)
